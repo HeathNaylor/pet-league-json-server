@@ -1,0 +1,9 @@
+
+{
+  "pets": [
+    { "id": 1, "name": "Bubbles", "gender": "f" },
+    { "id": 2, "name": "Thor", "gender": "m" },
+    { "id": 3, "name": "Mini", "gender": "f" },
+    { "id": 4, "name": "Groot", "gender": "m" }
+  ]
+}
